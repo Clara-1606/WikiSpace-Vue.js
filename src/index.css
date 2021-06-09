@@ -1,0 +1,88 @@
+/* Général de la page */
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 10px;
+}
+
+.carte{
+  background-color: #2E2D2D;
+  border:3px solid black;
+}
+
+body{
+  background-color: black;
+}
+
+.name{
+  color: white;
+  margin-left: 12px;
+  margin-bottom: 0;
+  height: 20px;
+}
+
+img {
+border-radius: 50%;
+width:80px;
+height: 80px;
+}
+
+/*Menu*/
+.nav{
+  background-color: #2E2D2D;
+  height : 40px;
+  margin-bottom: 5px;
+}
+
+
+ul a {
+  margin-right : 10px;
+  color : white;
+  margin-top: 6px;
+  font-size: 20px;
+
+}
+ul a:hover {
+ color :  #01DF93;
+}
+
+
+/* Astronautes  */
+.abreviation{
+  color : #01DF93;
+}
+
+.hidden{
+  color: #2E2D2D;
+}
+
+button{
+    margin : 5px;
+}
+
+
+.btn{
+  margin : 10px;
+}
+
+/* Voir plus */
+
+.nom{
+  color : #01DF93;
+  background-color: #2E2D2D;
+  font-size: 20px
+}
+
+.separation{
+  background-color: #1C1C1C;
+  width: 700px;
+  color : white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom : 8px;
+  text-align: left;
+  padding : 5px;
+}
